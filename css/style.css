@@ -1,0 +1,175 @@
+body {
+  font-size: 17px;
+  font-family: 'Apple Symbols',sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+#site {
+  margin: 0 auto;
+  padding: 80px 180px;
+}
+#header {
+  max-width: 900px;
+  margin: 0 auto;
+}
+#header {
+  padding: 0px;
+  padding-bottom: 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+.logo {
+  margin: 0;
+}
+#header .logo a {
+  color: #121212;
+}
+#header h1.logo.image {
+  display: inline;
+}
+#header h1.logo img {
+  width: 75px;
+  height: auto;
+}
+.logo2 img {
+  width: 190px;
+}
+
+.main-nav {
+  padding: 60px; 
+}
+#navBlock nav ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+#navBlock nav ul li {
+  display: inline-block;
+  margin: 0 20px;
+  text-align: center;
+}
+#navBlock nav ul li a {
+ text-decoration: none;
+ color: #777;
+}
+#navBlock nav ul li a:hover {
+  text-decoration: none;
+  color: #121212;
+  transition: .5s;
+}
+
+#illust {
+  text-align: center;
+  margin: 50px 0;
+}
+#illust div{
+  display: inline-block;
+  width: 49%;
+}
+.l img, .r img  {
+  width: 100%;
+}
+#illust .bigillust {
+ width: 100%;
+}
+#illust .bigillust img {
+ width: 100%;
+ margin: 0 auto;
+}
+.illust-wrp {
+  margin: 0 80px;
+}
+
+
+footer {
+  margin-top: 100px;
+}
+.footer-wrapper{
+  text-align: center;
+}
+.footer-logo {
+  display: inline-block;
+  width: auto;
+}
+.footer-logo img {
+  width: 50%;
+  opacity: 0.5;
+}
+.footer-logo img:hover{
+  opacity: 1;
+  transition-duration: 0.3s;
+}
+p {
+  color: #777;
+}
+
+
+
+/* SHOP */
+.syohinWrapper {
+  margin: 0 250px;
+}
+.tshirt, .mug, .poster, .pop{
+  text-align: center;
+}
+.tshirt img, .mug img{
+  width: 500px;
+  height: auto;
+}
+.syohin {
+  font-size: 20px;
+}
+.price {
+  padding-bottom: 50px;
+}
+.tshirt {
+  margin-top: 40px;
+}
+.mug , .poster, .pop {
+  margin-top: 100px;
+}
+.poster img{
+  width: 300px;
+  height: auto;
+}
+.pop img {
+  width: 450px;
+  height: auto;
+}
+.border {
+  border-bottom: 1px dashed rgb(196, 196, 196);
+}
+.setsumei {
+  margin-top: 40px;
+}
+.setsumei p {
+  font-size: 13px;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+  letter-spacing: initial;
+}
+
+/* ABOUT */
+.abouto {
+  margin: 40px 270px;
+}
+.tenga {
+  text-align: center;
+  margin: 0 110px;
+}
+.tenga img {
+  width: 100%;
+}
+.concept {
+  margin-top: 60px;
+}
+.concept-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.f-famiry {
+  font-size: 16px;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+  letter-spacing: initial;
+}

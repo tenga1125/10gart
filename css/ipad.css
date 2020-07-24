@@ -1,0 +1,72 @@
+
+
+
+@media screen and (max-width: 1024px) {
+  #site {
+    margin: 0 auto;
+    padding: 80px;
+  }
+
+  .syohinWrapper, .abouto {
+    margin: 0 80px;
+ }
+
+}
+
+@media screen and (max-width: 768px) {
+  #site {
+    margin: 0 auto;
+    padding: 50px;
+  }
+
+  .syohinWrapper, .abouto {
+    margin: 0 50px;
+ }
+
+}
+
+
+@media screen and (max-width: 480px) {
+  #site {
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .main-nav {
+    padding: 40px;
+ }
+  .illust-wrp {
+    margin: 0;
+}
+  #illust {
+    text-align: center;
+    margin: 0;
+  }
+  #illust div {
+    display: inline-block;
+    width: 100%;
+ }
+ .syohinWrapper, .abouto {
+  margin: 0 10px;
+ }
+ .tshirt {
+  margin-top: 0;
+ }
+ .tshirt img, .mug img, .pop img, .poster img {
+  width: 100%;
+  height: auto;
+ }
+ .price {
+  padding-bottom:25px;
+ }
+ .mug, .poster, .pop {
+  margin-top: 50px;
+ }
+ .tenga {
+  text-align: center;
+  margin: 0;
+ }
+ .f-famiry {
+  font-size: 14px;
+ }
+
+}
